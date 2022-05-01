@@ -1,3 +1,8 @@
+
+
+
+sadfadsfsadfsadf
+
 Команды в Git Bash консолиGitHub
 git clone https -- склонировать репозиторий.
 git status -- проверка состояния файлов.
